@@ -1,4 +1,4 @@
-# Optimized Prewitt Edge Detection with CUDA
+# Optimized Prewitt Edge Detection with CUDA for PADP PART B
 
 ## Overview
 This project implements an optimized version of the Prewitt edge detection algorithm using CUDA (Compute Unified Device Architecture) for parallel processing on NVIDIA GPUs. The Prewitt edge detection operator is commonly used in image processing to detect edges in digital images.
